@@ -28,3 +28,11 @@ You can create PR for..
 - PR your project to courses index
 
 PR-ing your project as an official track requires extra steps and we will contact you within 3 days after the PR.
+
+
+## License
+This project is licensed under MIT License for community use.
+
+Yet we restrict some companies and groups that rip off money in terms of education from students using Grida edu.
+- A single cource cannot cost more than $100 (Only for enterprises)
+- Every cource should be free for Grida scholarship program users
