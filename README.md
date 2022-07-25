@@ -20,3 +20,11 @@ See [edu.grida.co/docs](https://edu.grida.co/docs)
 - How to publish typescript package on npm
 - How to contribute on open source projects
 - How to create an open source project
+
+## PR your course
+You can create PR for..
+
+- PR your project as an official track (Interview required)
+- PR your project to courses index
+
+PR-ing your project as an official track requires extra steps and we will contact you within 3 days after the PR.
